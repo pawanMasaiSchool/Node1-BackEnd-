@@ -1,0 +1,12 @@
+{
+  "name": "node-1-3141",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "startIt": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

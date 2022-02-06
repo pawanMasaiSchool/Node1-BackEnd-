@@ -1,0 +1,17 @@
+console.log("Before");
+console.log("Before");
+console.log("Before");
+console.log("Before");
+console.log(process.exit());
+console.log("after");
+console.log("after");
+console.log("after");
+console.log("after");
+console.log("after");
+console.log("after");
+console.log("after");
+console.log("after");
+console.log("after");
+console.log("after");
+console.log("after");
+console.log("after");
